@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+.hidden {
+    display: none!important;
+}
+.show {
+    display: block;
+}
+#gramos h4, p{
+    display: inline;
+}
+#preview {
+    padding: 0;
+    margin: 0.8rem 0;
+}
+#preview h4{
+    margin-top: 0.8rem;
+}
+.error {
+    border: 1px solid red;
+}
+.alin {
+    display: flex;
+    align-items: center;
+}

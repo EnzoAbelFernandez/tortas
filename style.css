@@ -1,0 +1,9 @@
+body {
+    background-image: url(images/tortaflores.jpg);
+}
+
+.texto {
+    display: inline;
+    position: relative;
+    top: 200px;
+}
